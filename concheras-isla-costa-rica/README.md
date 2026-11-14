@@ -50,6 +50,7 @@ En la Isla Costa Rica, las mujeres concheras trabajan en el manglar con saberes 
 | [03-problema-de-investigacion-artistica.md](03-problema-de-investigacion-artistica.md) | Presentación de 20 diapositivas (23 oct. 2026): palabras clave, referentes, tensión, material, problema, pregunta y 24 referencias APA | https://claude.ai/artifact/RUTKkcGC3xmNxwT4ygC66g |
 | [04-guia-de-la-presentacion.md](04-guia-de-la-presentacion.md) | Guía que explica qué contiene cada diapositiva de esa presentación (26 oct. 2026) | https://claude.ai/artifact/WDSLeN9jvE2ZT2RrBHXFTi |
 | [05-guion-de-la-exposicion.md](05-guion-de-la-exposicion.md) | Guion oral (≈10 min) para exponer el problema de investigación (26 oct. 2026) | https://claude.ai/artifact/E6TgbLhB8tszk1x5k8y6r5 |
+| **Anteproyecto por etapas** (14 nov. 2026, en curso) | Nueva versión pedida por la tutora Rocío Soria: cuatro etapas (escucha y acuerdos, ellas registran, creación en la isla, instalación y socialización), cada una con su pregunta, su versión de la obra y una revisión | https://claude.ai/artifact/SrpFwayrDBD3UoaneXKsWU |
 | [06-defensa-del-anteproyecto.md](06-defensa-del-anteproyecto.md) | Presentación de la defensa del anteproyecto de obra (11 nov. 2026): fases, método, montaje, registro, cronograma, recursos y permisos | https://claude.ai/artifact/HfmcH7LqyNAvDsLZLUCJXc |
 
 ## Cómo ha evolucionado la pregunta

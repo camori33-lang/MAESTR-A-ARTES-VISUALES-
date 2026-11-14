@@ -6,7 +6,7 @@ Material de la Maestría en Artes Visuales (cuarta cohorte) de la Universidad T�
 
 **[Relatos colectivos de las concheras del manglar, en la Isla Costa Rica, a través de una instalación artística](concheras-isla-costa-rica/README.md)**
 
-Investigación-creación con las mujeres concheras de la Isla Costa Rica (archipiélago de Jambelí, El Oro). En la carpeta están el resumen del proyecto, la presentación del problema de investigación, su guía, el guion para exponerla y la defensa del anteproyecto.
+Investigación-creación con las mujeres concheras de la Isla Costa Rica (archipiélago de Jambelí, El Oro). En la carpeta están el resumen del proyecto y todo su material en orden: la lámina inicial «Máscaras del manglar», el control de lectura sobre Haraway, la presentación del problema de investigación, su guía, el guion para exponerla y la defensa del anteproyecto.
 
 ## Asignatura: Investigación en Artes
 

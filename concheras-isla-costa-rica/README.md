@@ -41,13 +41,26 @@ En la Isla Costa Rica, las mujeres concheras trabajan en el manglar con saberes 
 3. **Ida experimental a la isla y creación:** tres semanas de acompañamiento por WhatsApp y cuatro días en la isla. Responde a la subpregunta 1.
 4. **Exposición en Machala e Ibarra:** CRAI de la UTMACH o Casa de la Cultura Núcleo de El Oro, y Centro Cultural Tahuandos, con conversatorio en Machala. Responde a la subpregunta 2 y a la pregunta principal.
 
-## Archivos de esta carpeta
+## Archivos de esta carpeta (en orden cronológico)
 
 | Archivo | Qué es | Original en Claude |
 |---|---|---|
-| [01-problema-de-investigacion-artistica.md](01-problema-de-investigacion-artistica.md) | Presentación de 20 diapositivas (23 oct. 2026): palabras clave, referentes, tensión, material, problema y pregunta | https://claude.ai/artifact/RUTKkcGC3xmNxwT4ygC66g |
-| [02-guia-de-la-presentacion.md](02-guia-de-la-presentacion.md) | Guía que explica qué contiene cada diapositiva de esa presentación | https://claude.ai/artifact/WDSLeN9jvE2ZT2RrBHXFTi |
-| [03-guion-de-la-exposicion.md](03-guion-de-la-exposicion.md) | Guion oral (≈10 min) para exponer el problema de investigación | https://claude.ai/artifact/E6TgbLhB8tszk1x5k8y6r5 |
-| [04-defensa-del-anteproyecto.md](04-defensa-del-anteproyecto.md) | Presentación de la defensa del anteproyecto de obra (11 nov. 2026): fases, método, montaje, registro, cronograma, recursos y permisos | https://claude.ai/artifact/HfmcH7LqyNAvDsLZLUCJXc |
+| [01-mascaras-del-manglar-lamina-inicial.md](01-mascaras-del-manglar-lamina-inicial.md) | Primera versión del proyecto (oct. 2026): «Máscaras del manglar», obra visual digital con máscaras de iconografía Jambelí; referentes Iturbide, Mendieta y las piangüeras de Colombia | https://claude.ai/artifact/XrFcoF4EGp6ixPQk74h33w |
+| [02-control-lectura-haraway.md](02-control-lectura-haraway.md) | Control de lectura, semana 2 (19 oct. 2026): Haraway y los conocimientos situados aplicados a las concheras; aquí nace la idea de que ellas cuenten sus propias historias | https://claude.ai/artifact/7QqRSzKAkGyzPgkrDau4bj |
+| [03-problema-de-investigacion-artistica.md](03-problema-de-investigacion-artistica.md) | Presentación de 20 diapositivas (23 oct. 2026): palabras clave, referentes, tensión, material, problema, pregunta y 24 referencias APA | https://claude.ai/artifact/RUTKkcGC3xmNxwT4ygC66g |
+| [04-guia-de-la-presentacion.md](04-guia-de-la-presentacion.md) | Guía que explica qué contiene cada diapositiva de esa presentación (26 oct. 2026) | https://claude.ai/artifact/WDSLeN9jvE2ZT2RrBHXFTi |
+| [05-guion-de-la-exposicion.md](05-guion-de-la-exposicion.md) | Guion oral (≈10 min) para exponer el problema de investigación (26 oct. 2026) | https://claude.ai/artifact/E6TgbLhB8tszk1x5k8y6r5 |
+| [06-defensa-del-anteproyecto.md](06-defensa-del-anteproyecto.md) | Presentación de la defensa del anteproyecto de obra (11 nov. 2026): fases, método, montaje, registro, cronograma, recursos y permisos | https://claude.ai/artifact/HfmcH7LqyNAvDsLZLUCJXc |
+
+## Cómo ha evolucionado la pregunta
+
+1. **Máscaras del manglar (oct.):** ¿Cómo pueden los relatos de las mujeres concheras de la Isla Costa Rica convertirse en una obra visual digital que represente su identidad desde su propia voz?
+2. **Problema de investigación (23 oct.):** ¿Cómo narrar el oficio de las concheras de la Isla Costa Rica en una instalación artística?
+3. **Defensa del anteproyecto (11 nov.):** ¿Cómo narrar el oficio de las concheras de la Isla Costa Rica en una instalación artística transmedia creada con las fotografías y audios que ellas registran? (con dos subpreguntas)
+
+## Otras fuentes relacionadas que no están en esta carpeta
+
+- **TFM previo:** Mora Ortiz, C. M. (2024). *Narrativas artísticas y literarias como elemento transformador de comunidades vulnerables: Caso isla Costa Rica, Jambelí-Ecuador* [Trabajo fin de máster no publicado, UNIR]. No está en Claude ni en este repositorio. Si lo subes, lo añado.
+- **Archivo de campo 2021–2024** (fotos, audios, notas): tampoco está aquí.
 
 Los textos de las presentaciones se extrajeron de las diapositivas, con las notas del orador cuando las hay. Las imágenes siguen solo en los originales de Claude.

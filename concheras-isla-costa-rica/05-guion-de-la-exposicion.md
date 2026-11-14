@@ -2,7 +2,7 @@
 
 Fuente: https://claude.ai/artifact/E6TgbLhB8tszk1x5k8y6r5 (documento en Claude, 26 de octubre de 2026)
 
-Texto para decir en voz alta, en primera persona, diapositiva por diapositiva. Dura unos 10 minutos a ritmo tranquilo. Acompaña a la presentación `01-problema-de-investigacion-artistica.md`.
+Texto para decir en voz alta, en primera persona, diapositiva por diapositiva. Dura unos 10 minutos a ritmo tranquilo. Acompaña a la presentación `03-problema-de-investigacion-artistica.md`.
 
 ## Apertura
 
